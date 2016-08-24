@@ -51,9 +51,11 @@ alias vi='/Applications/MacVim.app/Contents/MacOS/Vim'
 alias vim='/Applications/MacVim.app/Contents/MacOS/Vim'
 ```
 
-> 注意：使用的 shell 版本不同，用户的配置文件也不同。例如：Bash 的默认配置文件是 ~/.bashrc，zsh 的默认配置文件是 ~/.zshrc。
+> 注意：使用的 shell 版本不同，用户的配置文件也不同。例如：bash 的默认配置文件是 ~/.bashrc，zsh 的默认配置文件是 ~/.zshrc。
 >
 > 以上两行需要根据具体情况添加到正确的配置文件中。
+
+到这里，MacVim 窗口模式和命令行模式就安装完成了。
 
 #### Linux/Unix
 
